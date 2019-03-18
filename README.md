@@ -1,7 +1,6 @@
 # pepperAutonomousNavigation
-Allows the Pepper robot from Alderbaran to  navigate to the targets position
+Allows the Pepper robot from Alderbaran to  navigate to the targets position In order to run this script and enable the Pepper robot the functionality provided:
 
-In order to run this script and enable the Pepper robot the functionality provided:
 -Alderbaran Python SDK 
 
 -ROS Kinetic Kame
